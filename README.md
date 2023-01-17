@@ -6,7 +6,7 @@ The custom interpolations were based on [easing.net](https://easings.net/) sampl
 
 ## Screenshot
 
-![Animation output](screenshots/example.gif)
+![Animation output](screenshots/Example.gif)
 
 ## Dependencies
 

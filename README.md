@@ -1,6 +1,6 @@
 # JavaFX Animation Interpolations Tester
 
-An application that showcases the use of built-in and custom interpolations methods in JavaFX.
+An application that showcases the usage of built-in and custom interpolations methods in JavaFX.
 
 The custom interpolations were based on [easing.net](https://easings.net/) samples.
 
